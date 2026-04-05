@@ -1,3 +1,4 @@
+# Eman-Abdelnassir-Mahmoud-
 I am a second-year BIS student at Assiut National University, driven by a passion for bridging the gap between business needs and technical solutions. I specialize in turning complex data into actionable insights.
 
 ---
@@ -20,5 +21,4 @@ I am a second-year BIS student at Assiut National University, driven by a passio
 ### 📈 Current Projects & Achievements
 - 🏆 Ranked **1st** in my first academic year at BIS.
 - 👥 Leading **Query Squad** team for the **Telecom-360-Analysis** project.
-- 🎓 Completed Digital Egypt Pioneers Initiative (DEPI) training.
-# Eman-Abdelnassir-Mahmoud-
+  
